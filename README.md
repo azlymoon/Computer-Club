@@ -18,7 +18,7 @@ make
 ./ComputerClub <input_file>
 ```
 
-Пример входных данных из задания лежит в `/sample_input/example_input.txt`
+Пример входных данных из задания лежит в `/test/data/example_input.txt`
 
 ## Запуск тестов
 
