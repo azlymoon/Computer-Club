@@ -1,3 +1,7 @@
+# Build dir
+/build
+/cmake-build-debug
+
 # Prerequisites
 *.d
 
@@ -30,3 +34,6 @@
 *.exe
 *.out
 *.app
+
+
+/.idea
